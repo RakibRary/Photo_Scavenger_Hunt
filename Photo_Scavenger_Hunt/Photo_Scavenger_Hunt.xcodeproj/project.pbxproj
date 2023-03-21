@@ -14,6 +14,7 @@
 		9F2C743A29C9536900F2D727 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9F2C743929C9536900F2D727 /* Assets.xcassets */; };
 		9F2C743D29C9536900F2D727 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9F2C743B29C9536900F2D727 /* LaunchScreen.storyboard */; };
 		9F2C744729C957B600F2D727 /* png-transparent-scavenger-hunt-logo-others-game-emblem-text-thumbnail.png in Resources */ = {isa = PBXBuildFile; fileRef = 9F2C744629C957B500F2D727 /* png-transparent-scavenger-hunt-logo-others-game-emblem-text-thumbnail.png */; };
+		9F2C744929C95A7600F2D727 /* Unknown-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 9F2C744829C95A7600F2D727 /* Unknown-1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		9F2C743C29C9536900F2D727 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9F2C743E29C9536900F2D727 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9F2C744629C957B500F2D727 /* png-transparent-scavenger-hunt-logo-others-game-emblem-text-thumbnail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "png-transparent-scavenger-hunt-logo-others-game-emblem-text-thumbnail.png"; sourceTree = "<group>"; };
+		9F2C744829C95A7600F2D727 /* Unknown-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Unknown-1.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +45,7 @@
 			isa = PBXGroup;
 			children = (
 				9F2C744629C957B500F2D727 /* png-transparent-scavenger-hunt-logo-others-game-emblem-text-thumbnail.png */,
+				9F2C744829C95A7600F2D727 /* Unknown-1.png */,
 				9F2C742F29C9536700F2D727 /* Photo_Scavenger_Hunt */,
 				9F2C742E29C9536700F2D727 /* Products */,
 			);
@@ -131,6 +134,7 @@
 				9F2C744729C957B600F2D727 /* png-transparent-scavenger-hunt-logo-others-game-emblem-text-thumbnail.png in Resources */,
 				9F2C743D29C9536900F2D727 /* LaunchScreen.storyboard in Resources */,
 				9F2C743A29C9536900F2D727 /* Assets.xcassets in Resources */,
+				9F2C744929C95A7600F2D727 /* Unknown-1.png in Resources */,
 				9F2C743829C9536700F2D727 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
